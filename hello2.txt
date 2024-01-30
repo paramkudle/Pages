@@ -1,0 +1,5 @@
+print("NIGHT NIGHT")
+print()
+
+for i in range(0,2):
+  print("MORNING")
