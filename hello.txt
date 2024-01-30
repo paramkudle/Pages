@@ -1,4 +1,4 @@
-Hey guys this is param
+print("YO GUYS")
 
 for i in range(0,6):
   print("Hello")
